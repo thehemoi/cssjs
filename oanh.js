@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2hGTBYj' target='_blank'><img src='https://plus.google.com/u/0/photos/photo/117656512549748817173/6369531334454510434?icm=false' width='500px'/><br/>Phan Oanh Xinh Đẹp </a>. Dễ Thương Nè :* . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2iIXiAM' target='_blank'><img src='https://lh3.googleusercontent.com/ZND1HzwkICZYTTpv0VE0pMq3UHl-vxdzBJHnAYehA7h6znk_gyFjmCdjYgXWYNAHP5C8jJ5Kn9kLpjR8Ls0mze8qhErTALChcQ=w1366-h768-rw-no' width='500px'/><br/>Xin Chào Phan Oanh</a>.Xinh Đep,Dễ Thương :*. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
