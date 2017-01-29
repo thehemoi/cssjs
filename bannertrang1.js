@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2hGTBYj' target='_blank'><img src='https://lh3.googleusercontent.com/ZND1HzwkICZYTTpv0VE0pMq3UHl-vxdzBJHnAYehA7h6znk_gyFjmCdjYgXWYNAHP5C8jJ5Kn9kLpjR8Ls0mze8qhErTALChcQ=w1366-h768-rw-no' width='500px'/><br/>nội thất hoà phát</a>. nội thất văn phòng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2hGTBYj' target='_blank'><img src='https://lh3.googleusercontent.com/ZND1HzwkICZYTTpv0VE0pMq3UHl-vxdzBJHnAYehA7h6znk_gyFjmCdjYgXWYNAHP5C8jJ5Kn9kLpjR8Ls0mze8qhErTALChcQ=w1366-h768-rw-no' width='500px'/><br/>Nội Thất Hoà Phát</a>.  Nội Thất Văn Phòng . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
